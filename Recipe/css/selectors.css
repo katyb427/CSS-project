@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Viga&display=swap');
+
+
+h1{
+    font-family: 'Viga', sans-serif;
+    font-size: 3.5rem;
+    margin-left: 11rem;
+    color:whitesmoke;
+}
+
+header{
+    background-color: rgb(23, 27, 23);
+    margin-left:0;
+}
+
+div{
+    padding-left:50rem;
+    margin-top: -37.3rem;
+    line-height: 1.4rem;
+    color: rgb(82, 80, 80);
+}
+
+body{
+    background-color: rgb(231, 228, 228);
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(70, 69, 69);
+    margin:0;
+}
+
+h2{
+    font-size: 1.2rem;
+    font-family: 'Viga', sans-serif;
+}
+section > img{
+    width:30%;
+    margin-left: 11rem;
+}
+
+section > p {
+    margin-left: 11rem;
+    color: rgb(141, 140, 140);
+}
+
+a{
+    text-decoration: none;
+    color:rgb(143, 96, 96);
+}
+
+a:hover{
+    color: rosybrown;
+}
+
+
